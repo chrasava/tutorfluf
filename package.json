@@ -1,5 +1,5 @@
 {
-  "name": "isabella-spanish-tutor",
+  "name": "tutorfluf",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "groq-sdk": "^1.1.2",
-    "next": "15.3.1",
+    "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-markdown": "^9.0.0",
